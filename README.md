@@ -19,7 +19,7 @@ To run this test, install Node, Playwright and all dependencies.
 Create a .env file and fill in your **email** and **password** for the test there.
 This is the format:
 
-EMAIL="testEmail@email.com"
+EMAIL="testEmail@email.com"<br>
 PASSWORD="myPassword"
 
 -----
