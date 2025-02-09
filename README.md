@@ -25,5 +25,5 @@ PASSWORD="myPassword"
 -----
 
 ### **Author**  
-Joe Duong 
+Joe Duong <br>
 Date: 02/07/25
